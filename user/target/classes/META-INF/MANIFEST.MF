@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 235754
+Build-Jdk: 17.0.7
+Implementation-Title: USER_ELEARN
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.project
+Implementation-URL: https://spring.io/projects/spring-boot/user
+Created-By: Maven Integration for Eclipse
+
